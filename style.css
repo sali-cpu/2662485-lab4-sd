@@ -1,0 +1,37 @@
+#b1 {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+    background-color: aqua;
+    padding: 10px;
+    margin-bottom: 100px;
+    flex-direction: column; 
+    cursor: pointer;
+}
+
+#clickCount {
+    
+    display: flex; 
+    align-items: center;
+    align-text: center;
+    width: 300px;
+    height: 100px;
+    cursor: pointer;
+
+}
+
+#count {
+    margin-bottom: 20px;
+    margin-right: 100px;
+    width: 300px;
+    height: 30px;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+#m1 {
+    cursor: pointer;
+
+}
